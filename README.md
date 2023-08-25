@@ -6,7 +6,7 @@ Welcome to my GitHub repository. I'm a passionate Data Professional with an inte
 - Snippets of code I find interesting
 - Small projects that reflect my data exploration
 
-Find my portfolio [here](https://github.com/janosmrtn/Data-Analyst-Portfolio)
+Find my portfolio [here](https://github.com/janosmrtn/Data-Analyst-Portfolio).
 
 🌱 **Connect and Collaborate:**
 I'm all ears for collaboration and learning together. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/janosmarton/).
